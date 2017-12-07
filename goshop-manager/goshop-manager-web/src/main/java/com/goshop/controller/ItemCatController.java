@@ -31,7 +31,6 @@ public class ItemCatController {
 		try {
 			 list = itemCatService.getItemCatList(parentId);
 		} catch (Exception e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		return list;
