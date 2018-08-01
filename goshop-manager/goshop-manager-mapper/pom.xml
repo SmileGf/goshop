@@ -29,7 +29,7 @@
 		</dependency>
 		<!-- <dependency>
 			<groupId>com.github.pagehelper</groupId>
-			<artifactId>pagehelper</artifactId>
+			<artifactId>pagehelperss</artifactId>
 		</dependency> -->
 		<!-- MySql -->
 		<dependency>
