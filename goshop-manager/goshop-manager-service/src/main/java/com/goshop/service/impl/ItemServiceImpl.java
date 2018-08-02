@@ -1,18 +1,18 @@
 package com.goshop.service.impl;
 
-import java.util.List;
+//import java.util.List;
 
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Service;
+//import org.springframework.beans.factory.annotation.Autowired;
+//import org.springframework.stereotype.Service;
 
 //import com.github.pagehelper.PageHelper;
 //import com.github.pagehelper.PageInfo;
-import com.goshop.common.pojo.EUDataGridResult;
-import com.goshop.mapper.TbItemMapper;
-import com.goshop.pojo.TbItem;
-import com.goshop.pojo.TbItemExample;
-import com.goshop.pojo.TbItemExample.Criteria;
-import com.goshop.service.ItemService;
+//import com.goshop.common.pojo.EUDataGridResult;
+//import com.goshop.mapper.TbItemMapper;
+//import com.goshop.pojo.TbItem;
+//import com.goshop.pojo.TbItemExample;
+//import com.goshop.pojo.TbItemExample.Criteria;
+//import com.goshop.service.ItemService;
 
 /**
  * 商品管理
